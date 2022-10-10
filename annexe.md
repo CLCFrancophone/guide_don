@@ -37,6 +37,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Dahan, Gilbert
 - Daniélou, Jean
 - De Lubac, Henri
+- De Pury, Albert
 - Delteil, Gérard
 - Delumeau, Jean
 - Dolto, Françoise
