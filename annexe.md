@@ -35,9 +35,6 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Cullman, Oscar
 - Dahan, Gilbert
 - Daniélou, Jean
-- De Bèze, Théodore
-- De Clairvaux, Bernard
-- De la Croix, Jean
 - De Lubac, Henri
 - Delteil, Gérard
 - Delumeau, Jean
