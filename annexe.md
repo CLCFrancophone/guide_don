@@ -46,7 +46,6 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Dubied, Pierre-Luigi
 - Ducoq, Christian
 - Ebeling, Gerhard
-- Eckart, Johannes (dit Maitre Eckart)
 - Eco, Umberto
 - Ellul, Jacques (y compris écrits politiques)
 - Eliade, Mircea
