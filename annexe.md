@@ -22,6 +22,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Bonhoeffer, Dietrich
 - Bourquin, Yvan
 - Bovon, François
+- Brown, Raymond E.
 - Bühler, Pierre
 - Bultmann, Rudolf
 - Carrez, Maurice
@@ -196,3 +197,4 @@ Un tri sera fait par la CLCF
 ### Zébre
 
 - Publications de l'IRSB
+- Instruments pour l'étude des langues de l'orient ancien
