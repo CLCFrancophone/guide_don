@@ -119,7 +119,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Zumestein, Jean
 - Zundel, Maurice
 
-Note de Maïeul : les ensieignant·es "célèbres" des université de Strasbourg et de Suisse romandes ne sont mentionnés que s'ils sont retraité·es ou sur le point de l'être.
+Note de Maïeul : les enseignant·es "célèbres" des université de Strasbourg et de Suisse romandes ne sont mentionnés que s'ils sont retraité·es ou sur le point de l'être.
 
 ### Auteurs, hors de cette liste
 
