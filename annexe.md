@@ -191,11 +191,11 @@ Toute collection, tri sera fait la CLCF
 ### Seuil
 
 - Parole de dieu (tri sera fait par CLCF)
--
+
 ### Taizé (presse de)
 
 Un tri sera fait par la CLCF
+
 ### Zébre
 
-- (Aelac)
-
+- Publications de l'IRSB
