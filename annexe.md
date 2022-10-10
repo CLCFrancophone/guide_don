@@ -45,7 +45,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Doss, François (travaux sur Ricœur)
 - Dubied, Pierre-Luigi
 - Ducoq, Christian
-- Ebeling, Eberhard
+- Ebeling, Gerhard
 - Eckart, Johannes (dit Maitre Eckart)
 - Eco, Umberto
 - Ellul, Jacques (y compris écrits politiques)
