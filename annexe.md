@@ -151,7 +151,8 @@ Les publications des presses universitaires des universtié francophones, dès l
 
 - Cogitatio fidei (un tri sera fait par la CLCF)
 - Ecrits théologiques (idem)
-- Initiations aux théologiens
+- Initiations au théologiens
+- Initiation au christianisme ancien
 - Lectio Divina (un tri sera fait par la CLCF)
 - Sources Chrétiennes
 - "Pour lire xxx"
