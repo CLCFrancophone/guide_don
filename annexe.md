@@ -27,7 +27,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Bultmann, Rudolf
 - Carrez, Maurice
 - Chenu, Bruno
-- Collange, Jean-Françoisa
+- Collange, Jean-François
 - Combet-(Galland), Corinna
 - Comité mixte catholique luthéro-réformé en France
 - Cone, James
@@ -115,7 +115,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Weber, Max
 - Wénin, André
 - Westermann, Claus
-- Zumestein, Jean
+- Zumstein, Jean
 - Zundel, Maurice
 
 Note de Maïeul : les enseignant·es "célèbres" des université de Strasbourg et de Suisse romandes ne sont mentionnés que s'ils sont retraité·es ou sur le point de l'être.
@@ -130,7 +130,7 @@ Sont systématiquement pris :
 
 ## Collections systématiquement prises, par maison d'édition
 
-Les publications des presses universitaires des universtié francophones, dès lorsqu'elles touchent au domaine de la CLCF, sont systématiquement prises.
+Les publications des presses universitaires des universités francophones, dès lorsqu'elles touchent au domaine de la CLCF, sont systématiquement prises.
 ### Bayard
 
 - Theologia
