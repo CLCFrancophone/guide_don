@@ -80,7 +80,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Müller, Denis
 - Nestlé, Eberhard
 - Nestlé, Erwin
-- Nihand, Christophe
+- Nihan, Christophe
 - Nodet, Etienne
 - Pannenenberg, Wolfhart
 - Picon, Raphaël
