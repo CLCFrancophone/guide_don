@@ -3,9 +3,10 @@
 Les noms ci-dessous sont donnés à titre indicatif, et ne sont pas limitatifs.
 
 Mis à jour au 7.10.2022
-Auteurs : Maïeul Rouquette, Sophie-Anne
 
-## Auteurs, par ordre alphabétique
+Auteurs et autrices : Maïeul Rouquette, Sophie-Anne Faivre
+
+## Auteurs et autrices, par ordre alphabétique
 
 Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'âge du livre.
 
