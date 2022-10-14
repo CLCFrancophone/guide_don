@@ -29,6 +29,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Carrez, Maurice
 - Casalis, Georges
 - Chenu, Bruno
+- Cobb, John B.
 - Collange, Jean-François
 - Combet-(Galland), Corinna
 - Comité mixte catholique luthéro-réformé en France
@@ -65,6 +66,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Jérémias, Jerachim
 - Junod, Éric
 - Kaestli, Jean-Daniel
+- King, Martin Luther
 - Küng, Hans
 - Keller, Paul
 - Lagrange, Marie-Joseph
