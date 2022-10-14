@@ -82,6 +82,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Nestlé, Erwin
 - Nihan, Christophe
 - Nodet, Etienne
+- Noth, Martin
 - Pannenenberg, Wolfhart
 - Picon, Raphaël
 - Prigent, Pierre
