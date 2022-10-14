@@ -106,6 +106,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Theobald, Christophe
 - Tillich, Paul
 - Trocmé, André
+- Trocmé, Étienne
 - Troelstch, Ernst
 - Veyne, Paul
 - Vial, Marc
