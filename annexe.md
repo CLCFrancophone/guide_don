@@ -171,6 +171,7 @@ Les publications des presses universitaires des universités francophones, dès 
 - Bibliothèque théologique
 - Commentaire de l'ancien testament/du nouveau nestament
 - Le monde de la Bible
+- Foi vivante
 
 ### Desclée (de Brouwer)
 
