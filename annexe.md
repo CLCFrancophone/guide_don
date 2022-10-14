@@ -27,6 +27,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Bühler, Pierre
 - Bultmann, Rudolf
 - Carrez, Maurice
+- Casalis, Georges
 - Chenu, Bruno
 - Collange, Jean-François
 - Combet-(Galland), Corinna
