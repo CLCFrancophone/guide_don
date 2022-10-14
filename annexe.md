@@ -185,6 +185,9 @@ Les publications des presses universitaires des universités francophones, dès 
 - Théologie systématique
 - Publication de la faculté de théologie
 
+### Edition de Moulin
+
+- Tout
 ### Olivétan
 
 Toute collection, tri sera fait la CLCF
