@@ -137,6 +137,7 @@ Sont systématiquement pris :
 ## Collections systématiquement prises, par maison d'édition
 
 Les publications des presses universitaires des universités francophones, dès lorsqu'elles touchent au domaine de la CLCF, sont systématiquement prises.
+
 ### Bayard
 
 - Theologia
@@ -198,6 +199,7 @@ Les publications des presses universitaires des universités francophones, dès 
 ### Oberlin
 
 - Tout, tri sera fait la par la CLCF
+
 ### Olivétan
 
 Toute collection, tri sera fait la CLCF
