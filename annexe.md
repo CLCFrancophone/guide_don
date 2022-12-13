@@ -212,6 +212,9 @@ Toute collection, tri sera fait la CLCF
 
 Un tri sera fait par la CLCF
 
+### World Council of Churches
+
+Un tri sera fait par la CLCF
 ### Zébre
 
 - Publications de l'IRSB
