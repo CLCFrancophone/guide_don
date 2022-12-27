@@ -136,6 +136,7 @@ Sont systématiquement pris :
 - Théologien·nes de l'antiquité, du moyen-âge et de la Réforme
 - Théologien·nes hors d'Europe
 - Philosophes classiques (de Socrate à Ricœur)
+- Vatican II et papes récents
 
 ## Collections systématiquement prises, par maison d'édition
 
