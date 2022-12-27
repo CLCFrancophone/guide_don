@@ -17,12 +17,14 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Arnold, Matthieu
 - Aron, Raymond
 - Barth, Karl
+- Barthes, Roland
 - Bethge, Eberhard (ami de Bonhoeffer, D.)
 - Birmelé, André
 - Blaser, Klauspeter
 - Bonhoeffer, Dietrich
 - Bourquin, Yvan
 - Bovon, François
+- Bottérot, Jean
 - Brown, Raymond E.
 - Bühler, Pierre
 - Bultmann, Rudolf
@@ -71,6 +73,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Keller, Paul
 - Lagrange, Marie-Joseph
 - Leenhard, Franz-J
+- Lemaire, André
 - Léon-Dufour, Xavier
 - Lewis, C-S (y compris Narnia ?)
 - Lieenhard, Marc
@@ -157,6 +160,7 @@ Les publications des presses universitaires des universités francophones, dès 
 
 ### Cerf
 
+- Cahiers Evangiles et suppléments
 - Cogitatio fidei (un tri sera fait par la CLCF)
 - Ecrits théologiques (idem)
 - Initiations au théologiens
