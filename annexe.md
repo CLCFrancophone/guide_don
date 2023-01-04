@@ -37,7 +37,7 @@ Les auteurs ci-dessous sont à garder systématiquement, indépendamment de l'â
 - Comité mixte catholique luthéro-réformé en France
 - Cone, James
 - Congar, Michel-Yves
-- Conseil œcuménique des Églises (COE)
+- Conseil œcuménique des Églises (COE) / World Council of Churches (WCC)
 - Cullman, Oscar
 - Dahan, Gilbert
 - Daniélou, Jean
@@ -217,9 +217,10 @@ Toute collection, tri sera fait la CLCF
 
 Un tri sera fait par la CLCF
 
-### World Council of Churches
+### World Council of Churches / Conseil œcuménique des Églises (COE)
 
 Un tri sera fait par la CLCF
+
 ### Zébre
 
 - Publications de l'IRSB
