@@ -201,6 +201,11 @@ Les publications des presses universitaires des universités francophones, dès 
 
 - Tout
 
+
+### Lessius
+
+La CLCF fera un tri
+
 ### Oberlin
 
 - Tout, tri sera fait la par la CLCF
